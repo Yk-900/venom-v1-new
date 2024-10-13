@@ -1,0 +1,362 @@
+UserID: 5843431232 | Time: 2024-10-04 03:00:15.096451 | Command: /bgmi | Target: 20.198.78.217 | Port: 13735 | Time: 90
+Username: @YK_119
+Target: 20.198.78.217
+Port: 13735
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-04 03:01:59.548960 | Command: /bgmi | Target: 20.198.78.217 | Port: 13735 | Time: 60
+Username: @YK_119
+Target: 20.198.78.217
+Port: 13735
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-04 03:23:21.813244 | Command: /bgmi | Target: 20.204.177.217 | Port: 20943 | Time: 120
+Username: @YK_119
+Target: 20.204.177.217
+Port: 20943
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-04 03:25:24.804542 | Command: /bgmi | Target: 20.204.177.217 | Port: 20943 | Time: 60
+Username: @YK_119
+Target: 20.204.177.217
+Port: 20943
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-04 03:26:28.548837 | Command: /bgmi | Target: 20.204.177.217 | Port: 20943 | Time: 60
+Username: @YK_119
+Target: 20.204.177.217
+Port: 20943
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-04 04:31:38.420040 | Command: /bgmi | Target: 20.204.16.246 | Port: 28450 | Time: 60
+Username: @YK_119
+Target: 20.204.16.246
+Port: 28450
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-04 07:41:27.489184 | Command: /bgmi | Target: 20.204.17.0 | Port: 10656 | Time: 90
+Username: @YK_119
+Target: 20.204.17.0
+Port: 10656
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-04 07:43:16.635855 | Command: /bgmi | Target: 20.204.17.0 | Port: 10656 | Time: 60
+Username: @YK_119
+Target: 20.204.17.0
+Port: 10656
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-04 08:22:16.939025 | Command: /bgmi | Target: 20.235.32.146 | Port: 19564 | Time: 90
+Username: @YK_119
+Target: 20.235.32.146
+Port: 19564
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-04 08:24:00.700630 | Command: /bgmi | Target: 20.235.32.146 | Port: 19564 | Time: 60
+Username: @YK_119
+Target: 20.235.32.146
+Port: 19564
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-04 11:44:57.834422 | Command: /bgmi | Target: 20.204.179.34 | Port: 15925 | Time: 90
+Username: @YK_119
+Target: 20.204.179.34
+Port: 15925
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-04 11:46:46.460893 | Command: /bgmi | Target: 20.204.179.34 | Port: 15925 | Time: 60
+Username: @YK_119
+Target: 20.204.179.34
+Port: 15925
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 03:13:25.182410 | Command: /bgmi | Target: 20.235.92.252 | Port: 11645 | Time: 120
+Username: @YK_119
+Target: 20.235.92.252
+Port: 11645
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-05 03:15:40.585026 | Command: /bgmi | Target: 20.235.92.252 | Port: 11645 | Time: 60
+Username: @YK_119
+Target: 20.235.92.252
+Port: 11645
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 04:23:24.581360 | Command: /bgmi | Target: 20.204.20.204 | Port: 10011 | Time: 120
+Username: @YK_119
+Target: 20.204.20.204
+Port: 10011
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-05 04:25:42.679920 | Command: /bgmi | Target: 20.204.20.204 | Port: 10011 | Time: 60
+Username: @YK_119
+Target: 20.204.20.204
+Port: 10011
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 08:10:44.785657 | Command: /bgmi | Target: 20.204.190.221 | Port: 10487 | Time: 120
+Username: @YK_119
+Target: 20.204.190.221
+Port: 10487
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-05 08:12:51.309290 | Command: /bgmi | Target: 20.204.190.221 | Port: 10487 | Time: 60
+Username: @YK_119
+Target: 20.204.190.221
+Port: 10487
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 09:51:58.042820 | Command: /bgmi | Target: 20.235.95.214 | Port: 14684 | Time: 120
+Username: @YK_119
+Target: 20.235.95.214
+Port: 14684
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-05 09:54:08.540521 | Command: /bgmi | Target: 20.235.95.214 | Port: 14684 | Time: 60
+Username: @YK_119
+Target: 20.235.95.214
+Port: 14684
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 09:55:10.909638 | Command: /bgmi | Target: 20.235.95.214 | Port: 14684 | Time: 60
+Username: @YK_119
+Target: 20.235.95.214
+Port: 14684
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 10:41:23.067878 | Command: /bgmi | Target: 20.235.93.233 | Port: 20174 | Time: 180
+Username: @YK_119
+Target: 20.235.93.233
+Port: 20174
+Time: 180
+
+UserID: 5843431232 | Time: 2024-10-05 10:45:05.655736 | Command: /bgmi | Target: 20.235.93.233 | Port: 20174 | Time: 90
+UserID: 5843431232 | Time: 2024-10-05 10:45:20.095862 | Command: /bgmi | Target: 20.235.93.233 | Port: 20174 | Time: 90
+Username: @YK_119
+Target: 20.235.93.233
+Port: 20174
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-05 10:47:27.966636 | Command: /bgmi | Target: 20.235.93.233 | Port: 20174 | Time: 60
+Username: @YK_119
+Target: 20.235.93.233
+Port: 20174
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-05 14:37:59.496672 | Command: /bgmi | Target: 20.235.95.133 | Port: 25130 | Time: 180
+Username: @YK_119
+Target: 20.235.95.133
+Port: 25130
+Time: 180
+
+UserID: 5843431232 | Time: 2024-10-05 14:41:30.116151 | Command: /bgmi | Target: 4.213.65.190 | Port: 17733 | Time: 90
+Username: @YK_119
+Target: 4.213.65.190
+Port: 17733
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-05 14:56:15.407274 | Command: /bgmi | Target: 20.235.50.135 | Port: 16120 | Time: 70
+Username: @YK_119
+Target: 20.235.50.135
+Port: 16120
+Time: 70
+
+UserID: 5843431232 | Time: 2024-10-05 14:57:38.287070 | Command: /bgmi | Target: 20.235.50.135 | Port: 16120 | Time: 60
+Username: @YK_119
+Target: 20.235.50.135
+Port: 16120
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 03:00:41.630056 | Command: /bgmi | Target: 20.235.94.237 | Port: 17712 | Time: 80
+Username: @YK_119
+Target: 20.235.94.237
+Port: 17712
+Time: 80
+
+UserID: 5843431232 | Time: 2024-10-06 03:02:20.576879 | Command: /bgmi | Target: 20.235.94.237 | Port: 17712 | Time: 60
+Username: @YK_119
+Target: 20.235.94.237
+Port: 17712
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 03:23:58.244126 | Command: /bgmi | Target: 20.235.95.251 | Port: 22479 | Time: 90
+Username: @YK_119
+Target: 20.235.95.251
+Port: 22479
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-06 03:25:51.726914 | Command: /bgmi | Target: 20.235.95.251 | Port: 22479 | Time: 60
+Username: @YK_119
+Target: 20.235.95.251
+Port: 22479
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 04:22:22.538820 | Command: /bgmi | Target: 20.204.178.223 | Port: 17778 | Time: 90
+Username: @YK_119
+Target: 20.204.178.223
+Port: 17778
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-06 04:24:11.855671 | Command: /bgmi | Target: 20.204.178.223 | Port: 17778 | Time: 60
+Username: @YK_119
+Target: 20.204.178.223
+Port: 17778
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 04:31:40.541374 | Command: /bgmi | Target: 20.204.77.3 | Port: 10351 | Time: 70
+Username: @YK_119
+Target: 20.204.77.3
+Port: 10351
+Time: 70
+
+UserID: 5843431232 | Time: 2024-10-06 04:33:07.896188 | Command: /bgmi | Target: 20.204.77.3 | Port: 10351 | Time: 60
+Username: @YK_119
+Target: 20.204.77.3
+Port: 10351
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 04:38:59.989814 | Command: /bgmi | Target: 20.235.20.95 | Port: 22501 | Time: 70
+Username: @YK_119
+Target: 20.235.20.95
+Port: 22501
+Time: 70
+
+UserID: 5843431232 | Time: 2024-10-06 04:56:29.081315 | Command: /bgmi | Target: 20.219.78.147 | Port: 29053 | Time: 80
+Username: @YK_119
+Target: 20.219.78.147
+Port: 29053
+Time: 80
+
+UserID: 5843431232 | Time: 2024-10-06 04:58:02.705987 | Command: /bgmi | Target: 20.219.78.147 | Port: 29053 | Time: 60
+Username: @YK_119
+Target: 20.219.78.147
+Port: 29053
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 05:44:16.930735 | Command: /bgmi | Target: 20.198.74.118 | Port: 25730 | Time: 70
+Username: @YK_119
+Target: 20.198.74.118
+Port: 25730
+Time: 70
+
+UserID: 5843431232 | Time: 2024-10-06 05:45:42.432134 | Command: /bgmi | Target: 20.198.74.118 | Port: 25730 | Time: 60
+Username: @YK_119
+Target: 20.198.74.118
+Port: 25730
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 08:44:47.632614 | Command: /bgmi | Target: 20.198.108.84 | Port: 12362 | Time: 70
+Username: @YK_119
+Target: 20.198.108.84
+Port: 12362
+Time: 70
+
+UserID: 5843431232 | Time: 2024-10-06 08:46:11.224146 | Command: /bgmi | Target: 20.198.108.84 | Port: 12362 | Time: 60
+Username: @YK_119
+Target: 20.198.108.84
+Port: 12362
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 08:59:54.688382 | Command: /bgmi | Target: 20.219.6.46 | Port: 28093 | Time: 80
+Username: @YK_119
+Target: 20.219.6.46
+Port: 28093
+Time: 80
+
+UserID: 5843431232 | Time: 2024-10-06 09:01:29.128922 | Command: /bgmi | Target: 20.219.6.46 | Port: 28093 | Time: 60
+Username: @YK_119
+Target: 20.219.6.46
+Port: 28093
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 09:31:40.745746 | Command: /bgmi | Target: 20.204.39.245 | Port: 16690 | Time: 60
+Username: @YK_119
+Target: 20.204.39.245
+Port: 16690
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-06 10:01:23.621077 | Command: /bgmi | Target: 20.198.109.99 | Port: 18358 | Time: 80
+Username: @YK_119
+Target: 20.198.109.99
+Port: 18358
+Time: 80
+
+UserID: 5843431232 | Time: 2024-10-06 10:02:55.784794 | Command: /bgmi | Target: 20.198.109.99 | Port: 18358 | Time: 60
+Username: @YK_119
+Target: 20.198.109.99
+Port: 18358
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-07 13:00:16.993538 | Command: /bgmi | Target: 20.198.76.92 | Port: 18220 | Time: 80
+UserID: 5843431232 | Time: 2024-10-07 13:00:47.921827 | Command: /bgmi | Target: 20.198.76.92 | Port: 18220 | Time: 80
+Username: @YK_119
+Target: 20.198.76.92
+Port: 18220
+Time: 80
+
+UserID: 5843431232 | Time: 2024-10-07 13:03:53.688686 | Command: /bgmi | Target: 4.213.64.4 | Port: 13909 | Time: 70
+Username: @YK_119
+Target: 4.213.64.4
+Port: 13909
+Time: 70
+
+UserID: 5843431232 | Time: 2024-10-07 13:05:16.876566 | Command: /bgmi | Target: 4.213.64.4 | Port: 13909 | Time: 60
+Username: @YK_119
+Target: 4.213.64.4
+Port: 13909
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-07 13:15:14.389604 | Command: /bgmi | Target: 20.204.39.136 | Port: 22210 | Time: 120
+Username: @YK_119
+Target: 20.204.39.136
+Port: 22210
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-07 13:17:30.167312 | Command: /bgmi | Target: 20.204.39.136 | Port: 22210 | Time: 60
+Username: @YK_119
+Target: 20.204.39.136
+Port: 22210
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-07 13:37:44.557207 | Command: /bgmi | Target: 20.204.19.255 | Port: 10523 | Time: 120
+Username: @YK_119
+Target: 20.204.19.255
+Port: 10523
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-07 13:39:55.570336 | Command: /bgmi | Target: 20.204.19.255 | Port: 10523 | Time: 60
+Username: @YK_119
+Target: 20.204.19.255
+Port: 10523
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-08 02:44:35.484413 | Command: /bgmi | Target: 52.140.63.126 | Port: 13070 | Time: 90
+Username: @YK_119
+Target: 52.140.63.126
+Port: 13070
+Time: 90
+
+UserID: 5843431232 | Time: 2024-10-08 02:49:50.450583 | Command: /bgmi | Target: 20.204.181.125 | Port: 29062 | Time: 60
+Username: @YK_119
+Target: 20.204.181.125
+Port: 29062
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-08 02:50:53.753084 | Command: /bgmi | Target: 20.204.181.125 | Port: 29062 | Time: 60
+Username: @YK_119
+Target: 20.204.181.125
+Port: 29062
+Time: 60
+
+UserID: 5843431232 | Time: 2024-10-08 05:40:23.937156 | Command: /bgmi | Target: 20.235.88.177 | Port: 15339 | Time: 120
+Username: @YK_119
+Target: 20.235.88.177
+Port: 15339
+Time: 120
+
+UserID: 5843431232 | Time: 2024-10-08 05:42:39.375621 | Command: /bgmi | Target: 20.235.88.177 | Port: 15339 | Time: 60
+Username: @YK_119
+Target: 20.235.88.177
+Port: 15339
+Time: 60
+
